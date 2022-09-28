@@ -1,0 +1,11 @@
+.home-title{
+  
+  background-color: gray;
+  margin: auto;
+  width: 980px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+}
